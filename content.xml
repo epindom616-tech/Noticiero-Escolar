@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260525173720S9P30J</value>
+    <value>20260525184056FUEY2A</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260525173720PQET07</value>
+    <value>20260525184056BOC4PU</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -60,7 +60,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1779723408208</value>
+    <value>1779727248599</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -93,7 +93,7 @@
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>page-mpldd6hi-8p24quejy</odePageId>
+  <odePageId>page-mplfnhqy-u071iha2t</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>📚 Título</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
@@ -137,7 +137,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpldd6hi-8p24quejy</odePageId>
+      <odePageId>page-mplfnhqy-u071iha2t</odePageId>
       <odeBlockId>block-1779363672234-qm2pcaix9</odeBlockId>
       <blockName>📚 “Somos reporteros del Día del Libro”</blockName>
       <iconName>book</iconName>
@@ -166,7 +166,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpldd6hi-8p24quejy</odePageId>
+          <odePageId>page-mplfnhqy-u071iha2t</odePageId>
           <odeBlockId>block-1779363672234-qm2pcaix9</odeBlockId>
           <odeIdeviceId>idevice-1779363672231-ea1z2it1i</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -196,7 +196,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpldd6hk-if4cdkrdk</odePageId>
+  <odePageId>page-mplfnhr1-33ups9jen</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>📝 Descripción</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
@@ -240,7 +240,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpldd6hk-if4cdkrdk</odePageId>
+      <odePageId>page-mplfnhr1-33ups9jen</odePageId>
       <odeBlockId>block-1779364482335-6jdgjkki3</odeBlockId>
       <blockName>Reporteros el día del libro</blockName>
       <iconName>book</iconName>
@@ -269,7 +269,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpldd6hk-if4cdkrdk</odePageId>
+          <odePageId>page-mplfnhr1-33ups9jen</odePageId>
           <odeBlockId>block-1779364482335-6jdgjkki3</odeBlockId>
           <odeIdeviceId>idevice-1779364482333-mil1uczk8</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -300,7 +300,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpldd6hl-q73j998p0</odePageId>
+  <odePageId>page-mplfnhr2-otpra5apn</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>📝 Justificación</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
@@ -344,7 +344,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpldd6hl-q73j998p0</odePageId>
+      <odePageId>page-mplfnhr2-otpra5apn</odePageId>
       <odeBlockId>block-1779364851491-f9uuqp9s1</odeBlockId>
       <blockName>¿Porqué?</blockName>
       <iconName>book</iconName>
@@ -373,7 +373,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpldd6hl-q73j998p0</odePageId>
+          <odePageId>page-mplfnhr2-otpra5apn</odePageId>
           <odeBlockId>block-1779364851491-f9uuqp9s1</odeBlockId>
           <odeIdeviceId>idevice-1779364851489-yfiwwtttw</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -405,7 +405,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpldd6hm-y82w4rg58</odePageId>
+  <odePageId>page-mplfnhr3-4h63wmn3q</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>🌐 Uso seguro y responsable de las tecnologías digitales</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
@@ -441,7 +441,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpldd6hm-y82w4rg58</odePageId>
+      <odePageId>page-mplfnhr3-4h63wmn3q</odePageId>
       <odeBlockId>block-1779441005117-s110aoo1o</odeBlockId>
       <blockName>🌐 Navegamos seguros en Internet</blockName>
       <iconName>suitcase</iconName>
@@ -470,7 +470,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpldd6hm-y82w4rg58</odePageId>
+          <odePageId>page-mplfnhr3-4h63wmn3q</odePageId>
           <odeBlockId>block-1779441005117-s110aoo1o</odeBlockId>
           <odeIdeviceId>idevice-1779441005116-n74zmis1t</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -502,7 +502,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpldd6hm-u5673tevq</odePageId>
+  <odePageId>page-mplfnhr3-4x30wpmt3</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>🌈 Atención a la diversidad y DUA</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
@@ -538,7 +538,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpldd6hm-u5673tevq</odePageId>
+      <odePageId>page-mplfnhr3-4x30wpmt3</odePageId>
       <odeBlockId>block-1779441355648-jfq8h6zw5</odeBlockId>
       <blockName>🧩 Aprendemos juntos</blockName>
       <iconName>collaborative</iconName>
@@ -567,7 +567,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpldd6hm-u5673tevq</odePageId>
+          <odePageId>page-mplfnhr3-4x30wpmt3</odePageId>
           <odeBlockId>block-1779441355648-jfq8h6zw5</odeBlockId>
           <odeIdeviceId>idevice-1779441355647-lcj720n3b</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -598,7 +598,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpldd6hn-ako34mtgy</odePageId>
+  <odePageId>page-mplfnhr4-de6w05wvk</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>📅 Temporalización</pageName>
   <odeNavStructureOrder>5</odeNavStructureOrder>
@@ -642,7 +642,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpldd6hn-ako34mtgy</odePageId>
+      <odePageId>page-mplfnhr4-de6w05wvk</odePageId>
       <odeBlockId>block-1779367864098-28io8bg3l</odeBlockId>
       <blockName>Semana del libro</blockName>
       <iconName>book</iconName>
@@ -671,7 +671,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpldd6hn-ako34mtgy</odePageId>
+          <odePageId>page-mplfnhr4-de6w05wvk</odePageId>
           <odeBlockId>block-1779367864098-28io8bg3l</odeBlockId>
           <odeIdeviceId>idevice-1779367864097-j2i06nivv</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -702,7 +702,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpldd6hn-buyy39hvz</odePageId>
+  <odePageId>page-mplfnhr4-65oalacbf</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>🎯 Nuestras tareas</pageName>
   <odeNavStructureOrder>6</odeNavStructureOrder>
@@ -746,7 +746,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpldd6hn-buyy39hvz</odePageId>
+      <odePageId>page-mplfnhr4-65oalacbf</odePageId>
       <odeBlockId>block-1779373542002-sbnbtiug6</odeBlockId>
       <blockName></blockName>
       <iconName>activity</iconName>
@@ -775,7 +775,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpldd6hn-buyy39hvz</odePageId>
+          <odePageId>page-mplfnhr4-65oalacbf</odePageId>
           <odeBlockId>block-1779373542002-sbnbtiug6</odeBlockId>
           <odeIdeviceId>idevice-1779373542001-tdr6rkvfb</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -812,8 +812,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpldd6ho-82klp7b8e</odePageId>
-  <odeParentPageId>page-mpldd6hn-buyy39hvz</odeParentPageId>
+  <odePageId>page-mplfnhr5-n2e127yqe</odePageId>
+  <odeParentPageId>page-mplfnhr4-65oalacbf</odeParentPageId>
   <pageName>1. Asamblea</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -856,7 +856,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpldd6ho-82klp7b8e</odePageId>
+      <odePageId>page-mplfnhr5-n2e127yqe</odePageId>
       <odeBlockId>block-1779432460682-c889cw163</odeBlockId>
       <blockName>🌟 Comenzamos nuestra aventura</blockName>
       <iconName>observe</iconName>
@@ -885,7 +885,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpldd6ho-82klp7b8e</odePageId>
+          <odePageId>page-mplfnhr5-n2e127yqe</odePageId>
           <odeBlockId>block-1779432460682-c889cw163</odeBlockId>
           <odeIdeviceId>idevice-1779432460680-k8llxvq3r</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -923,8 +923,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpldd6ho-0awp0o941</odePageId>
-  <odeParentPageId>page-mpldd6hn-buyy39hvz</odeParentPageId>
+  <odePageId>page-mplfnhr5-fgtab06ac</odePageId>
+  <odeParentPageId>page-mplfnhr4-65oalacbf</odeParentPageId>
   <pageName>2. Cuentos</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -967,7 +967,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpldd6ho-0awp0o941</odePageId>
+      <odePageId>page-mplfnhr5-fgtab06ac</odePageId>
       <odeBlockId>block-1779372978989-ew4bef37k</odeBlockId>
       <blockName>📚 ¿Qué son los cuentos?</blockName>
       <iconName>book</iconName>
@@ -996,7 +996,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpldd6ho-0awp0o941</odePageId>
+          <odePageId>page-mplfnhr5-fgtab06ac</odePageId>
           <odeBlockId>block-1779372978989-ew4bef37k</odeBlockId>
           <odeIdeviceId>idevice-1779372978988-fekzvjcd9</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1026,8 +1026,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpldd6hp-22qad4zxh</odePageId>
-  <odeParentPageId>page-mpldd6ho-0awp0o941</odeParentPageId>
+  <odePageId>page-mplfnhr6-1zj8b6909</odePageId>
+  <odeParentPageId>page-mplfnhr5-fgtab06ac</odeParentPageId>
   <pageName>🔎 Exploramos los cuentos</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1070,7 +1070,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpldd6hp-22qad4zxh</odePageId>
+      <odePageId>page-mplfnhr6-1zj8b6909</odePageId>
       <odeBlockId>block-1779383834874-v3p2y35ao</odeBlockId>
       <blockName>🔎 Detectives de cuentos</blockName>
       <iconName>book</iconName>
@@ -1099,7 +1099,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpldd6hp-22qad4zxh</odePageId>
+          <odePageId>page-mplfnhr6-1zj8b6909</odePageId>
           <odeBlockId>block-1779383834874-v3p2y35ao</odeBlockId>
           <odeIdeviceId>idevice-1779383834873-590hlnqv1</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1131,8 +1131,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpldd6hp-7b4tsrkb6</odePageId>
-  <odeParentPageId>page-mpldd6ho-0awp0o941</odeParentPageId>
+  <odePageId>page-mplfnhr8-8l0c7qqop</odePageId>
+  <odeParentPageId>page-mplfnhr5-fgtab06ac</odeParentPageId>
   <pageName>👀 A curiosear</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1175,7 +1175,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpldd6hp-7b4tsrkb6</odePageId>
+      <odePageId>page-mplfnhr8-8l0c7qqop</odePageId>
       <odeBlockId>block-1779383916977-d71yxyx5s</odeBlockId>
       <blockName>✨ Un viaje entre cuentos</blockName>
       <iconName>reflection</iconName>
@@ -1204,7 +1204,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpldd6hp-7b4tsrkb6</odePageId>
+          <odePageId>page-mplfnhr8-8l0c7qqop</odePageId>
           <odeBlockId>block-1779383916977-d71yxyx5s</odeBlockId>
           <odeIdeviceId>idevice-1779383916976-1b3pvl99n</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1235,8 +1235,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpldd6hq-7tnb3h284</odePageId>
-  <odeParentPageId>page-mpldd6ho-0awp0o941</odeParentPageId>
+  <odePageId>page-mplfnhr8-g4ayi0v17</odePageId>
+  <odeParentPageId>page-mplfnhr5-fgtab06ac</odeParentPageId>
   <pageName>🗳️ Elegimos nuestro cuento</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1271,7 +1271,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpldd6hq-7tnb3h284</odePageId>
+      <odePageId>page-mplfnhr8-g4ayi0v17</odePageId>
       <odeBlockId>block-1779384635507-79wz9k3g9</odeBlockId>
       <blockName>🎤 En busca del cuento perfecto</blockName>
       <iconName>book</iconName>
@@ -1300,7 +1300,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpldd6hq-7tnb3h284</odePageId>
+          <odePageId>page-mplfnhr8-g4ayi0v17</odePageId>
           <odeBlockId>block-1779384635507-79wz9k3g9</odeBlockId>
           <odeIdeviceId>idevice-1779384635507-e4zazuxej</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1333,8 +1333,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpldd6hq-955h2k4m1</odePageId>
-  <odeParentPageId>page-mpldd6hn-buyy39hvz</odeParentPageId>
+  <odePageId>page-mplfnhr9-ulg8cdonv</odePageId>
+  <odeParentPageId>page-mplfnhr4-65oalacbf</odeParentPageId>
   <pageName>3. Partes del cuento</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1377,7 +1377,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpldd6hq-955h2k4m1</odePageId>
+      <odePageId>page-mplfnhr9-ulg8cdonv</odePageId>
       <odeBlockId>block-1779374488862-t1l1xilhw</odeBlockId>
       <blockName>✨ Descubrimos las partes del cuento y tipos de cuentos</blockName>
       <iconName>reflection</iconName>
@@ -1406,7 +1406,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpldd6hq-955h2k4m1</odePageId>
+          <odePageId>page-mplfnhr9-ulg8cdonv</odePageId>
           <odeBlockId>block-1779374488862-t1l1xilhw</odeBlockId>
           <odeIdeviceId>idevice-1779374488859-3tfsprcbm</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1442,7 +1442,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpldd6hq-955h2k4m1</odePageId>
+      <odePageId>page-mplfnhr9-ulg8cdonv</odePageId>
       <odeBlockId>block-1779434629745-r92gxuybr</odeBlockId>
       <blockName>📖 Descubrimos diferentes tipos de textos</blockName>
       <iconName>reflection</iconName>
@@ -1471,7 +1471,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpldd6hq-955h2k4m1</odePageId>
+          <odePageId>page-mplfnhr9-ulg8cdonv</odePageId>
           <odeBlockId>block-1779434629745-r92gxuybr</odeBlockId>
           <odeIdeviceId>idevice-1779434629744-a5h3tg60a</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1503,8 +1503,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpldd6hs-fdi9armde</odePageId>
-  <odeParentPageId>page-mpldd6hq-955h2k4m1</odeParentPageId>
+  <odePageId>page-mplfnhra-id72o15zg</odePageId>
+  <odeParentPageId>page-mplfnhr9-ulg8cdonv</odeParentPageId>
   <pageName>📚 Vocabulario</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1547,7 +1547,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpldd6hs-fdi9armde</odePageId>
+      <odePageId>page-mplfnhra-id72o15zg</odePageId>
       <odeBlockId>block-1779375650975-w4gobc0ck</odeBlockId>
       <blockName>✨ Creamos cuentos con imágenes</blockName>
       <iconName>discuss</iconName>
@@ -1576,7 +1576,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpldd6hs-fdi9armde</odePageId>
+          <odePageId>page-mplfnhra-id72o15zg</odePageId>
           <odeBlockId>block-1779375650975-w4gobc0ck</odeBlockId>
           <odeIdeviceId>idevice-1779375650973-m0xp074ky</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1615,8 +1615,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpldd6hs-jmtzxaw39</odePageId>
-  <odeParentPageId>page-mpldd6hq-955h2k4m1</odeParentPageId>
+  <odePageId>page-mplfnhrb-4vycwws43</odePageId>
+  <odeParentPageId>page-mplfnhr9-ulg8cdonv</odeParentPageId>
   <pageName>🎮 Juegos</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1659,7 +1659,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpldd6hs-jmtzxaw39</odePageId>
+      <odePageId>page-mplfnhrb-4vycwws43</odePageId>
       <odeBlockId>block-1779376404194-jz0o75e12</odeBlockId>
       <blockName>🎮 Jugamos y aprendemos con los cuentos</blockName>
       <iconName>competencies</iconName>
@@ -1688,7 +1688,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpldd6hs-jmtzxaw39</odePageId>
+          <odePageId>page-mplfnhrb-4vycwws43</odePageId>
           <odeBlockId>block-1779376404194-jz0o75e12</odeBlockId>
           <odeIdeviceId>idevice-1779376404193-4wtub8s93</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1727,8 +1727,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpldd6ht-d5sqpor6u</odePageId>
-  <odeParentPageId>page-mpldd6hn-buyy39hvz</odeParentPageId>
+  <odePageId>page-mplfnhrc-9vjb4gtvi</odePageId>
+  <odeParentPageId>page-mplfnhr4-65oalacbf</odeParentPageId>
   <pageName>3. Recomendaciones</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1771,7 +1771,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpldd6ht-d5sqpor6u</odePageId>
+      <odePageId>page-mplfnhrc-9vjb4gtvi</odePageId>
       <odeBlockId>block-1779435891288-bo3t6q8hu</odeBlockId>
       <blockName>🎤 Recomendamos nuestro cuento</blockName>
       <iconName>reflection</iconName>
@@ -1800,7 +1800,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpldd6ht-d5sqpor6u</odePageId>
+          <odePageId>page-mplfnhrc-9vjb4gtvi</odePageId>
           <odeBlockId>block-1779435891288-bo3t6q8hu</odeBlockId>
           <odeIdeviceId>idevice-1779435891282-y7abcbscz</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1833,7 +1833,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpldd6ht-d5sqpor6u</odePageId>
+      <odePageId>page-mplfnhrc-9vjb4gtvi</odePageId>
       <odeBlockId>block-1779438175009-uc2mxr054</odeBlockId>
       <blockName>🎨 Dibujamos nuestro cuento</blockName>
       <iconName>reflection</iconName>
@@ -1862,7 +1862,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpldd6ht-d5sqpor6u</odePageId>
+          <odePageId>page-mplfnhrc-9vjb4gtvi</odePageId>
           <odeBlockId>block-1779438175009-uc2mxr054</odeBlockId>
           <odeIdeviceId>idevice-1779438175008-z02c4szhd</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1893,8 +1893,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpldd6ht-qf3pv5r9f</odePageId>
-  <odeParentPageId>page-mpldd6hn-buyy39hvz</odeParentPageId>
+  <odePageId>page-mplfnhrc-xc4fscfkm</odePageId>
+  <odeParentPageId>page-mplfnhr4-65oalacbf</odeParentPageId>
   <pageName>4. Reporteros</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1929,7 +1929,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpldd6ht-qf3pv5r9f</odePageId>
+      <odePageId>page-mplfnhrc-xc4fscfkm</odePageId>
       <odeBlockId>block-1779436988294-xpg2y7y3r</odeBlockId>
       <blockName>📰 Nos convertimos en reporteros</blockName>
       <iconName>gallery</iconName>
@@ -1958,7 +1958,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpldd6ht-qf3pv5r9f</odePageId>
+          <odePageId>page-mplfnhrc-xc4fscfkm</odePageId>
           <odeBlockId>block-1779436988294-xpg2y7y3r</odeBlockId>
           <odeIdeviceId>idevice-1779436988290-11yob84gx</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1989,8 +1989,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpldd6hu-7l7q31r62</odePageId>
-  <odeParentPageId>page-mpldd6ht-qf3pv5r9f</odeParentPageId>
+  <odePageId>page-mplfnhrd-c056d3ott</odePageId>
+  <odeParentPageId>page-mplfnhrc-xc4fscfkm</odeParentPageId>
   <pageName>🎧 Audio libro</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -2033,7 +2033,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpldd6hu-7l7q31r62</odePageId>
+      <odePageId>page-mplfnhrd-c056d3ott</odePageId>
       <odeBlockId>block-1779437271377-4qutp14fa</odeBlockId>
       <blockName>🎧 Grabamos nuestro audiolibro</blockName>
       <iconName>listen</iconName>
@@ -2062,7 +2062,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpldd6hu-7l7q31r62</odePageId>
+          <odePageId>page-mplfnhrd-c056d3ott</odePageId>
           <odeBlockId>block-1779437271377-4qutp14fa</odeBlockId>
           <odeIdeviceId>idevice-1779437271375-g4i7n1ozg</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2097,7 +2097,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpldd6hv-19hu6io2k</odePageId>
+  <odePageId>page-mplfnhrd-6mapvz0g5</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>🌟 Evaluación</pageName>
   <odeNavStructureOrder>7</odeNavStructureOrder>
@@ -2141,7 +2141,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpldd6hv-19hu6io2k</odePageId>
+      <odePageId>page-mplfnhrd-6mapvz0g5</odePageId>
       <odeBlockId>block-1779441788978-6vcqu3qef</odeBlockId>
       <blockName>🌟 Cómo aprendemos y mejoraremos</blockName>
       <iconName>draw</iconName>
@@ -2170,7 +2170,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpldd6hv-19hu6io2k</odePageId>
+          <odePageId>page-mplfnhrd-6mapvz0g5</odePageId>
           <odeBlockId>block-1779441788978-6vcqu3qef</odeBlockId>
           <odeIdeviceId>idevice-1779441788977-mb78xtpn3</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2203,7 +2203,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpldd6hv-19hu6io2k</odePageId>
+      <odePageId>page-mplfnhrd-6mapvz0g5</odePageId>
       <odeBlockId>block-1779721564394-7ppswn67m</odeBlockId>
       <blockName>Criterios de evaluación</blockName>
       <iconName>activity</iconName>
@@ -2232,7 +2232,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpldd6hv-19hu6io2k</odePageId>
+          <odePageId>page-mplfnhrd-6mapvz0g5</odePageId>
           <odeBlockId>block-1779721564394-7ppswn67m</odeBlockId>
           <odeIdeviceId>idevice-1779721564393-68g3h5ulw</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2262,7 +2262,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpldd6hw-v0rzzb0v9</odePageId>
+  <odePageId>page-mplfnhre-e6kd0xtzw</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>📰 Noticiero</pageName>
   <odeNavStructureOrder>8</odeNavStructureOrder>
@@ -2306,7 +2306,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpldd6hw-v0rzzb0v9</odePageId>
+      <odePageId>page-mplfnhre-e6kd0xtzw</odePageId>
       <odeBlockId>block-1779440021037-s0yojmg2x</odeBlockId>
       <blockName>📰 Nuestro gran noticiero del Día del Libro</blockName>
       <iconName>letters</iconName>
@@ -2335,7 +2335,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpldd6hw-v0rzzb0v9</odePageId>
+          <odePageId>page-mplfnhre-e6kd0xtzw</odePageId>
           <odeBlockId>block-1779440021037-s0yojmg2x</odeBlockId>
           <odeIdeviceId>idevice-1779440021033-v204br6s5</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2369,7 +2369,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpldd6hw-rfrpprime</odePageId>
+  <odePageId>page-mplfnhre-8riulgn4l</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>📄 Créditos y licencia</pageName>
   <odeNavStructureOrder>9</odeNavStructureOrder>
@@ -2405,7 +2405,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpldd6hw-rfrpprime</odePageId>
+      <odePageId>page-mplfnhre-8riulgn4l</odePageId>
       <odeBlockId>block-1779722067321-es13ceap5</odeBlockId>
       <blockName>🌟 Créditos finales</blockName>
       <iconName>nature</iconName>
@@ -2434,7 +2434,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpldd6hw-rfrpprime</odePageId>
+          <odePageId>page-mplfnhre-8riulgn4l</odePageId>
           <odeBlockId>block-1779722067321-es13ceap5</odeBlockId>
           <odeIdeviceId>idevice-1779722067320-00kt3d8ai</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
